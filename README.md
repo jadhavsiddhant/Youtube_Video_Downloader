@@ -48,14 +48,5 @@ This Python application provides a simple graphical user interface (GUI) for dow
 6.  The download progress will be displayed in the progress bar and percentage label.
 7.  A status message will indicate the download status.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Description for GitHub
-
+## Description
 This Python application provides a user-friendly GUI for downloading YouTube videos and audio using the powerful `yt-dlp` library. It allows users to easily select video resolutions, download audio-only, and track download progress in real-time. This project aims to provide a reliable and convenient way to download YouTube content for personal use. It leverages the robustness of `yt-dlp` for efficient and up-to-date downloading capabilities, while providing a simple Tkinter interface for ease of use.
